@@ -1,4 +1,5 @@
-jwt
-datetime
-requests
+PyJWT
+python-dateutil
 colorama
+requests
+datetime
